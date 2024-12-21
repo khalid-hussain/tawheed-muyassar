@@ -1,6 +1,51 @@
 
 # Preface {.unnumbered}
 
+All praises are for Allāh the Lord of all worlds, and blessings and peace be
+upon the last of the prophets and messengers, our Prophet Muḥammad, and upon his
+family and all his companions.
+
+This is a beneficial summary, containing comprehensive issues and useful
+insights, on the subject of Tawḥīd, without which Allāh does not accept any
+deed, and is not pleased with a servant except by its realization.
+
+I have written this brief summary which includes guidelines, rules, and
+categories that help the reader gather scattered information, capture key
+points, and organize the knowledge in their mind. Since a thing is not known
+unless two matters are understood:
+
+1. Its reality; and
+2. Its opposite.
+
+I have made an effort to clarify the reality of Tawheed, outlining its
+fundamentals and categories . Then, I addressed its opposite, which is shirk
+(associating others with Allāh), explaining its forms, types, and rulings
+because:
+
+"Things become clear through their opposites, and the beauty of one is
+highlighted by the ugliness of the other."
+
+The beauty and virtue of Tawheed only truly appears by understanding the
+ugliness and dangers of shirk. I have also included other important topics in
+this booklet that are essential for anyone practicing monotheist to know.
+
+I have strived to organize and categorize the issues carefully, focusing on
+definitions and boundaries while providing evidences and references in a concise
+manner to make this summary easy to memorize and understand.
+
+I avoided lengthy elaboration and insufficient brevity, aiming for a balance
+between the two. If I have succeeded, it is by the grace of Allāh alone; if I
+have erred, it is from myself and Satan.
+
+I have compiled this summary from the books of monotheistic scholars and named
+it "AlTawheed AlMuyassar," asking the Almighty to make it beneficial and place
+it in the scale of my good deeds on the Day I meet Him.
+
+May Allāh bless and grant peace to our Prophet Muhammad and his family and
+companions.
+
+------------------------
+
 All praises belong to Allāh, Lord of the worlds, and may peace and blessings be
 upon the last and the final Prophet and Messenger Muhammad, and his family and
 companions all together.
