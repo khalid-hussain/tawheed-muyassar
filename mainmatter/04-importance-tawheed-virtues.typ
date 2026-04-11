@@ -12,7 +12,9 @@ be worshipped, while denying any worship to others besides Him.
 Prophet Muḥammad #pbuh said,
 
 #hadith-block[
-بُنِيَ الإِسْلَامُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لَا إِلهَ إِلَّا اللهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللهِ ، وَإِقَامِ الصَّلَاةِ ، وَإِيتَاءِ الزَّكَاةِ ، وَالحَجِّ ، وَصَوْمِ رَمَضَانَ.
+بُنِيَ الإِسْلَامُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لَا إِلهَ إِلَّا اللهُ وَأَنَّ
+مُحَمَّدًا رَسُولُ اللهِ ، وَإِقَامِ الصَّلَاةِ ، وَإِيتَاءِ الزَّكَاةِ ،
+وَالحَجِّ ، وَصَوْمِ رَمَضَانَ.
 ][
 “Islam is built upon five (pillars):
 
@@ -21,9 +23,9 @@ Prophet Muḥammad #pbuh said,
 - Establishing prayer.
 - Giving zakāh (obligatory charity).
 - Fasting in Ramadān.
-- Performing the Hajj to the house (Kaʿbah).”@bukhari[vol. 1, pp.
-  150--1, \#8] [Agreed upon] #footnote[This means that both Imam al-Bukhārī and
-  Imam Muslim have narrated the same _ḥadīth_ in their _Ṣaḥīḥ_ collections.]
+- Performing the Hajj to the house (Kaʿbah).”@bukhari[vol. 1, pp. 150--1, \#8]
+  [Agreed upon] #footnote[This means that both Imam al-Bukhārī and Imam Muslim
+  have narrated the same _ḥadīth_ in their _Ṣaḥīḥ_ collections.]
 ]
 
 
@@ -35,7 +37,9 @@ thing one is called to. The Prophet #pbuh said to Muʿādh #pleasedHIM when he
 sent him to Yemen,
 
 #hadith-block[
-إِنَّكَ تَأْتِي قَوْمًا مِنْ أَهْلِ الْكِتَابِ ، فَلْيَكُنْ أَوَّلَ مَا تَدْعُوهُمْ إِلَيْهِ شَهَادَةُ أَنْ لَا إِلٰهَ إِلَّا اللَّهُ - وَفِي رِوَايَةٍ: إِلَى أَنْ يُوَحِّدُوا اللَّهَ.
+إِنَّكَ تَأْتِي قَوْمًا مِنْ أَهْلِ الْكِتَابِ ، فَلْيَكُنْ أَوَّلَ مَا
+تَدْعُوهُمْ إِلَيْهِ شَهَادَةُ أَنْ لَا إِلٰهَ إِلَّا اللَّهُ - وَفِي رِوَايَةٍ:
+إِلَى أَنْ يُوَحِّدُوا اللَّهَ.
 ][
 “You are going to a people from the People of the Book. Call them to testify
 that there is no god worthy of worship but Allāh.” In another narration, he
@@ -84,7 +88,11 @@ Shirk is the gravest injustice, while Tawḥīd is the highest form of justice.
 The Prophet #pbuh said,
 
 #hadith-block[
-مَنْ شَهِدَ أَنْ لا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لا شَرِيكَ لَهُ ، وَأَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ ، وَأَنَّ عِيسَى عَبْدُ اللهِ وَابْنُ أَمَتِهِ ، وَكَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ ، وَرُوحٌ مِنْهُ ، وَالْجَنَّةَ حَقٌّ ، وَالنَّارَ حَقٌّ ،أَدْخَلَهُ مِنْ أَبْوَابِ الْجَنَّةِ الثَّمَانِيَةِ أَيِّهَا شَاءَ.
+مَنْ شَهِدَ أَنْ لا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لا شَرِيكَ لَهُ ، وَأَنَّ
+مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ ، وَأَنَّ عِيسَى عَبْدُ اللهِ وَابْنُ أَمَتِهِ ،
+وَكَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ ، وَرُوحٌ مِنْهُ ، وَالْجَنَّةَ حَقٌّ ،
+وَالنَّارَ حَقٌّ ،أَدْخَلَهُ مِنْ أَبْوَابِ الْجَنَّةِ الثَّمَانِيَةِ أَيِّهَا
+شَاءَ.
 ][
 “Whoever testifies that there is no god worthy of being worshipped but Allāh
 alone, with no partner, that Muḥammad #pbuh is His servant and messenger, that
