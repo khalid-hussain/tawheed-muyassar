@@ -1,10 +1,9 @@
-
 #import "../functions.typ": *
 
 = Definition of Tawḥīd
 
-
-Linguistically, it's a verbal noun, _Waḥḥada, Yuwaḥḥidu al-Shayʾ_ means when a thing has been made “one.”
+Linguistically, it's a verbal noun, _Waḥḥada, Yuwaḥḥidu al-Shayʾ_ means when a
+thing has been made “one.”
 
 For example, if you say, “No one exited the house except Muḥammad,” you have
 singled out Muḥammad with [the action of] exiting the house.

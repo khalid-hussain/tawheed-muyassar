@@ -1,20 +1,18 @@
-
 = Shirk (Polytheism): Its Definition and Types
-
-
 == Definition of Shirk:
 
 - Linguistically: It means association and comparison.
-- In Islām: To equate someone or something with Allāh in what is exclusive to Him.
-
+- In Islām: To equate someone or something with Allāh in what is exclusive to
+  Him.
 
 == Types of Shirk:
 
-1. Major Shirk (Shirk Akbar): Anything that the Sharīʿah labels as shirk and which causes a person to exit the religion.
+1. Major Shirk (Shirk Akbar): Anything that the Sharīʿah labels as shirk and
+   which causes a person to exit the religion.
 
-2. Minor Shirk (Shirk Asghar): Any statement or action that the Sharīʿah refers to as shirk or disbelief, but we know based on the evidence of the religion that it does not take the person out of Islām.( Like swearing by other than Allāh)
-
-
+2. Minor Shirk (Shirk Asghar): Any statement or action that the Sharīʿah refers
+   to as shirk or disbelief, but we know based on the evidence of the religion that
+   it does not take the person out of Islām.( Like swearing by other than Allāh)
 
 == The Difference Between Major and Minor Shirk:
 

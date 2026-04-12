@@ -3,7 +3,7 @@
 
 // Header customizations
 #show heading.where(level: 1): it => { pagebreak(weak: true); it }
-// #set text(font: ("Adobe Aldine", "Minion 3", "Scheherazade New"), number-type: "old-style")
+#set text(font: ("Alegreya Sans", "Scheherazade New"), number-type: "old-style")
 #show heading: set block(below: 1.5em)
 
 #include "basmalah.typ"

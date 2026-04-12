@@ -1,29 +1,26 @@
 #import "../functions.typ": *
 
+= Islam
 
-= Islām 
+*Linguistic Definition:*
 
- *Linguistic Definition:*
-Islām  in language means submission, surrender, and obedience.
+Islam in language means submission, surrender, and obedience.
 
-*Islām  in the Shar‘i (Legal) Sense:*
+*Islam in the Sharʿī (Legal) Sense:*
 
 It is:
 
- • Submitting to Allāh through Tawḥīd (monotheism),
- 
- • Yielding to Him through obedience,
- 
- • And disassociating from shirk (polytheism) and its people.
-
-
+- Submitting to Allāh through Tawḥīd (monotheism),
+- Yielding to Him through obedience,
+- And disassociating from shirk (polytheism) and its people.
 
 == The General and Specific Meanings of Islam:
 
-* Islām in the General Sense:*
+*Islam in the General Sense:*
 
- It means worshipping Allāh according to what He legislated, from the time He sent messengers #salamTHEM until the Day of Judgment.
- 
- *Islām in the Specific Sense:*
+It means worshipping Allāh according to what He legislated, from the time He
+sent messengers #salamTHEM until the Day of Judgment.
 
- It refers specifically to what Muḥammad #pbuh was sent with.
+*Islam in the Specific Sense:*
+
+It refers specifically to what Muḥammad #pbuh was sent with.

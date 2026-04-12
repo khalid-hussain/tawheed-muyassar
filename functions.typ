@@ -1,3 +1,7 @@
+
+// Smallcaps shortcut
+#let sc(text) = smallcaps(text)
+
 // Honorifics shortcuts
 #let araTxt(content) = text(font: "KFGQPC Uthman Taha Naskh", baseline: -1pt)[#content]
 

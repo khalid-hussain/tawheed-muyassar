@@ -41,8 +41,8 @@ between the two. If I have succeeded, it is by the grace of Allāh alone; if I
 have erred, it is from myself and Shayṭān.
 
 I have compiled this summary from the books of monotheistic scholars and named
-it _Al-Tawḥīd al-Muyassar_, asking the Almighty to make it beneficial and place it
-in the scale of my good deeds on the Day I meet Him.
+it _Al-Tawḥīd al-Muyassar_, asking the Almighty to make it beneficial and place
+it in the scale of my good deeds on the Day I meet Him.
 
 May Allāh bless and grant peace to our Prophet Muḥammad, his family, and his
 companions.
